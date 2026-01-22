@@ -1,1 +1,11 @@
-/* Add CSS Styling */
+.frst-button , .scnd-button {
+    font-size: 28px;
+    font-family: "Helvetica", "Times new Roman", "Sans-Serif";
+}
+.frst-button {
+    background-color: black;
+    color: white;
+}
+.scnd-button{
+    background-color: yellow;
+}
